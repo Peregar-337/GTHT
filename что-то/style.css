@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url("img/molniia_groza_nebo_1321282_1920x1080.jpg");
+    background-size: cover; ы
+    background-position: center; 
+    background-attachment: fixed; 
+}
+
+
+header {
+font-size: 0;
+margin: 0 50px 50px 0;
+}
+h1, h3 {
+display: inline-block;
+width: 50%;
+vertical-align: top;
+font-weight: 400;
+margin: 0;
+}
+h1 {
+font-size: 5rem;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.user-profile {
+    float: right;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.user-profile img {
+    border-radius: 50%; 
+    width: 40px; 
+    height: 40px; 
+    margin-right: 10px; 
+}
+.user-profile span {
+    font-size: 18px; 
+}
+.container {
+    display: flex;  
+    gap: 150px;
+    width: 500vw;
+}
+.column {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    width: 365px;
+    height: 100%;
+}
+.element {
+    width: 175px;
+    height: 175px;
+}
+.big {
+    width: 365px;
+}
+.icon {
+    width: 170px;
+    height: 170px ;
+    margin-top: 2px;
+    margin-left: 2.5px;
+}
+.iconBig {
+    width: 360px;
+    height: 170px;
+    margin-top: 2px;
+    margin-left: 2px;
+}
+.group {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 150px;
+    
+
+}            
+.blue {
+    background-color: rgb(0, 47, 255);
+}
+.orange {
+    background-color: rgb(255, 145, 0);
+}
+.red {
+    background-color: rgb(185, 0, 0);
+}
+.purple {
+    background-color: rgb(113, 0, 165);
+}
+.magenta {
+    background-color: rgb(252, 52, 252);
+}
+.green {
+    background-color: rgb(0, 173, 0);
+}
+.lightblue {
+    background-color: rgb(3, 192, 255);
+}   
+.yellow {
+    background-color: yellow;
+}       
